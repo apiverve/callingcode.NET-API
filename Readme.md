@@ -71,7 +71,7 @@ Using the API client, you can perform requests to the API.
 
 ```
 var queryOptions = new CountryCallingCodeQueryOptions {
-  name = "FR"
+  country = "FR"
 };
 ```
 
