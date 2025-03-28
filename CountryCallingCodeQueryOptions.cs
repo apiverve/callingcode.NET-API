@@ -5,7 +5,7 @@ using System.Text;
 namespace APIVerve
 {
     public class CountryCallingCodeQueryOptions {
-public string name { get; set; }
+public string country { get; set; }
 }
 
 }
